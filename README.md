@@ -3,7 +3,7 @@ Python AI 實作入門課程：從生活議題到實戰應用
 
 | 週次 | 內容 | 授課教師 | 助教 | 作業 |
 |------|------|----------|------|------|
-| Week 1  | 課程介紹                     | 蔡芸琤老師 |      |      |
+| Week 1  | [課程介紹](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E4%B8%80%E9%80%B1_%E8%AA%B2%E7%A8%8B%E4%BB%8B%E7%B4%B9.ipynb)                     | 蔡芸琤老師 |      |      |
 | Week 2  | AI 基礎概念                  | 蔡芸琤老師 |      |      |
 | Week 3  | Python 程式設計入門（上）    | 蔡芸琤老師 | 鈞賢 |      |
 | Week 4  | Python 程式設計入門（下）    | 蔡芸琤老師 | 鈞賢 | HW1 |
