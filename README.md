@@ -1,6 +1,9 @@
 # PythonAI4Beginners
 Python AI 實作入門課程：從生活議題到實戰應用
 
+直播連結：https://www.youtube.com/@peculab/streams
+
+
 課程設計者：
 
     蔡芸琤（國立臺灣師範大學科技應用與人力資源發展系副教授）
