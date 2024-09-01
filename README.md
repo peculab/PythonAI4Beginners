@@ -18,7 +18,7 @@ Python AI 實作入門課程：從生活議題到實戰應用
 
 | 週次 | 內容 | 主講者 | 助教 | 作業 |
 |------|------|----------|------|------|
-| Week 01  | [課程介紹](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E4%B8%80%E9%80%B1_%E8%AA%B2%E7%A8%8B%E4%BB%8B%E7%B4%B9.ipynb)                     | 蔡芸琤 |      |      |
+| [Week 01](https://docs.google.com/presentation/d/11a1IjFFdCylP4ykbIGqfJSP7qiX6MS6sqLd45FLj3U0/pub?start=false&loop=false&delayms=3000)  | [課程介紹](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E4%B8%80%E9%80%B1_%E8%AA%B2%E7%A8%8B%E4%BB%8B%E7%B4%B9.ipynb)                     | 蔡芸琤 |      |      |
 | Week 02  | AI 基礎概念<br>理解 AI 的基本概念和歷史發展，認識 AI 在不同領域的應用場景                  | 蔡芸琤 |      |      |
 | Week 03  | Python 程式設計入門（上）<br>撰寫一個簡單的聊天機器人來回答常見問題    | 蔡芸琤 | 鈞賢 |      |
 | Week 04  | Python 程式設計入門（下）<br>撰寫一個簡單的聊天機器人來回答常見問題    | 蔡芸琤 | 鈞賢 | HW1 |
