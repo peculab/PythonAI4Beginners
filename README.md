@@ -5,6 +5,8 @@ Python AI 實作入門課程：從生活議題到實戰應用
 
 語法自學：[https://coddy.tech](https://coddy.tech/)
 
+交作業網站：[https://homework-1-vqal.onrender.com/](https://homework-1-vqal.onrender.com/)
+
 課程設計者：
 
     蔡芸琤（國立臺灣師範大學科技應用與人力資源發展系副教授）
