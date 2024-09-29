@@ -1,7 +1,9 @@
 # PythonAI4Beginners
 Python AI 實作入門課程：從生活議題到實戰應用
 
-直播連結：[https://www.youtube.com/@peculab/streams](https://www.youtube.com/@peculab/streams)
+直播連結：
+- 蔡芸琤老師 [https://www.youtube.com/@peculab/streams](https://www.youtube.com/@peculab/streams)
+- 張傑帆老師 [https://www.youtube.com/@shiunyi71/streams](https://www.youtube.com/@shiunyi71/streams)
 
 語法自學：[https://coddy.tech](https://coddy.tech/)
 
