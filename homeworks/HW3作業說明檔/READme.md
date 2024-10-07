@@ -4,7 +4,7 @@
   
    **1**.利用csv檔將四個縣的所有年月的觀光人數加總並生成箱型圖，並標註Max、Medium。
  
-   **2**.利用json檔，使用者可以自行輸入`縣市`、`特殊需求`、`價位`來檢索是否有符合需求的旅館，並將結果印出HotelName、LowestPrice、 CeilingPrice、 Description、 PostalAddress.Town、 PostalAddress、StreetAddress等欄位的資訊。(請乎視結果的排版很醜，將原生的結果輸出即可。)
+   **2**.利用json檔，使用者可以自行輸入`縣市`、`特殊需求`、`價位`來檢索是否有符合需求的旅館，並將結果印出HotelName、LowestPrice、 CeilingPrice、 Description、 PostalAddress.Town、 PostalAddress、StreetAddress等欄位的資訊。(請乎視結果的排版很醜，將原生的結果輸出即可。)，且輸入5筆資料即可
 
 
 -輸出檔名: 箱型圖請匯出成 jpg 檔，並且依照指定名稱命名
@@ -24,9 +24,7 @@
 
 3.數據輸出要完全符合格式 (格式請參照輸出範例)，否則會判定為 0 分。
 
-4.注意在列印數據時，兩個不同目標的數據要以空行隔開。
-
-5.建議補上
+4.建議補上
 import warnings
 
 warnings.filterwarnings("ignore", category=FutureWarning)
