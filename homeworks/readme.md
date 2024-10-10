@@ -81,6 +81,7 @@ for i, county in enumerate(stats.index):
 ```
 ## 箱型圖要求模樣:
 ![001.jpg](/images/2503_001ans.jpg)
+![Uploading image.png…]()
 
 ## Hint - json
 
