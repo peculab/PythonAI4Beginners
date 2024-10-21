@@ -1,0 +1,121 @@
+Day,Meal,Grains,Protein,Dairy,Vegetables,Fruit,Oil,Calories
+1,Breakfast,Rice,Egg,Yogurt,Kiwi,,,462
+1,Lunch,Noodles,Beans,,Kale,Orange,Sesame Oil,572
+1,Dinner,Rice,Beans,,Lettuce,Watermelon,Walnuts,530
+1,Total Daily Calories,,,,,,,1564
+2,Breakfast,Corn,Shrimp,Cheese,Banana,,,385
+2,Lunch,Sweet Potato,Chicken Breast,,Broccoli,Kiwi,Walnuts,452
+2,Dinner,Corn,Pork,,Kale,Kiwi,Sesame Oil,512
+2,Total Daily Calories,,,,,,,1349
+3,Breakfast,Whole Wheat Bread,Fish,Milk,Kiwi,,,422
+3,Lunch,Sweet Potato,Tofu,,Carrots,Papaya,Peanuts,365
+3,Dinner,Corn,Pork,,Broccoli,Kiwi,Almonds,507
+3,Total Daily Calories,,,,,,,1294
+4,Breakfast,Rice,Egg,Milk,Orange,,,452
+4,Lunch,Oatmeal,Shrimp,,Cucumber,Papaya,Almonds,415
+4,Dinner,Corn,Tofu,,Lettuce,Kiwi,Walnuts,337
+4,Total Daily Calories,,,,,,,1204
+5,Breakfast,Oatmeal,Beans,Yogurt,Banana,,,535
+5,Lunch,Corn,Chicken Breast,,Carrots,Apple,Sesame Oil,530
+5,Dinner,Whole Wheat Bread,Egg,,Kale,Kiwi,Almonds,372
+5,Total Daily Calories,,,,,,,1437
+6,Breakfast,Sweet Potato,Shrimp,Cheese,Orange,,,332
+6,Lunch,Rice,Shrimp,,Spinach,Apple,Sunflower Seeds,490
+6,Dinner,Corn,Shrimp,,Spinach,Apple,Almonds,410
+6,Total Daily Calories,,,,,,,1232
+7,Breakfast,Oatmeal,Egg,Yogurt,Banana,,,475
+7,Lunch,Oatmeal,Shrimp,,Lettuce,Papaya,Peanuts,400
+7,Dinner,Oatmeal,Egg,,Cucumber,Papaya,Sunflower Seeds,375
+7,Total Daily Calories,,,,,,,1250
+8,Breakfast,Corn,Pork,Milk,Orange,,,492
+8,Lunch,Rice,Fish,,Kale,Banana,Peanuts,575
+8,Dinner,Oatmeal,Egg,,Broccoli,Apple,Almonds,470
+8,Total Daily Calories,,,,,,,1537
+9,Breakfast,Rice,Pork,Yogurt,Banana,,,665
+9,Lunch,Corn,Pork,,Kale,Papaya,Sesame Oil,525
+9,Dinner,Corn,Chicken Breast,,Lettuce,Papaya,Almonds,435
+9,Total Daily Calories,,,,,,,1625
+10,Breakfast,Corn,Egg,Yogurt,Orange,,,382
+10,Lunch,Whole Wheat Bread,Fish,,Broccoli,Orange,Peanuts,467
+10,Dinner,Sweet Potato,Shrimp,,Spinach,Kiwi,Olive Oil,367
+10,Total Daily Calories,,,,,,,1216
+11,Breakfast,Rice,Pork,Yogurt,Kiwi,,,602
+11,Lunch,Noodles,Tofu,,Cucumber,Orange,Sesame Oil,502
+11,Dinner,Rice,Pork,,Cucumber,Watermelon,Sesame Oil,635
+11,Total Daily Calories,,,,,,,1739
+12,Breakfast,Whole Wheat Bread,Egg,Yogurt,Orange,,,402
+12,Lunch,Sweet Potato,Tofu,,Kale,Papaya,Olive Oil,385
+12,Dinner,Rice,Tofu,,Cucumber,Watermelon,Almonds,485
+12,Total Daily Calories,,,,,,,1272
+13,Breakfast,Rice,Tofu,Yogurt,Watermelon,,,515
+13,Lunch,Corn,Tofu,,Broccoli,Watermelon,Sunflower Seeds,400
+13,Dinner,Oatmeal,Egg,,Cucumber,Kiwi,Almonds,382
+13,Total Daily Calories,,,,,,,1297
+14,Breakfast,Corn,Shrimp,Cheese,Kiwi,,,322
+14,Lunch,Noodles,Tofu,,Broccoli,Apple,Olive Oil,570
+14,Dinner,Oatmeal,Beans,,Kale,Watermelon,Sunflower Seeds,485
+14,Total Daily Calories,,,,,,,1377
+15,Breakfast,Noodles,Beans,Milk,Banana,,,575
+15,Lunch,Sweet Potato,Egg,,Lettuce,Papaya,Sunflower Seeds,310
+15,Dinner,Corn,Fish,,Spinach,Watermelon,Sunflower Seeds,430
+15,Total Daily Calories,,,,,,,1315
+16,Breakfast,Rice,Chicken Breast,Milk,Apple,,,580
+16,Lunch,Noodles,Tofu,,Kale,Apple,Olive Oil,555
+16,Dinner,Rice,Chicken Breast,,Broccoli,Watermelon,Walnuts,605
+16,Total Daily Calories,,,,,,,1740
+17,Breakfast,Oatmeal,Egg,Milk,Watermelon,,,425
+17,Lunch,Sweet Potato,Shrimp,,Broccoli,Orange,Sesame Oil,417
+17,Dinner,Oatmeal,Beans,,Broccoli,Kiwi,Sesame Oil,497
+17,Total Daily Calories,,,,,,,1339
+18,Breakfast,Corn,Pork,Milk,Orange,,,492
+18,Lunch,Corn,Shrimp,,Broccoli,Apple,Peanuts,430
+18,Dinner,Oatmeal,Chicken Breast,,Cucumber,Papaya,Almonds,490
+18,Total Daily Calories,,,,,,,1412
+19,Breakfast,Corn,Pork,Yogurt,Papaya,,,515
+19,Lunch,Corn,Shrimp,,Spinach,Watermelon,Sunflower Seeds,380
+19,Dinner,Sweet Potato,Pork,,Carrots,Papaya,Olive Oil,525
+19,Total Daily Calories,,,,,,,1420
+20,Breakfast,Oatmeal,Pork,Milk,Watermelon,,,565
+20,Lunch,Noodles,Beans,,Kale,Banana,Walnuts,595
+20,Dinner,Rice,Chicken Breast,,Spinach,Kiwi,Almonds,532
+20,Total Daily Calories,,,,,,,1692
+21,Breakfast,Oatmeal,Pork,Cheese,Papaya,,,505
+21,Lunch,Oatmeal,Fish,,Kale,Banana,Almonds,535
+21,Dinner,Rice,Tofu,,Spinach,Watermelon,Walnuts,490
+21,Total Daily Calories,,,,,,,1530
+22,Breakfast,Noodles,Shrimp,Milk,Kiwi,,,472
+22,Lunch,Sweet Potato,Tofu,,Lettuce,Apple,Olive Oil,400
+22,Dinner,Noodles,Shrimp,,Broccoli,Kiwi,Sunflower Seeds,487
+22,Total Daily Calories,,,,,,,1359
+23,Breakfast,Corn,Pork,Cheese,Apple,,,495
+23,Lunch,Sweet Potato,Pork,,Broccoli,Orange,Peanuts,507
+23,Dinner,Corn,Fish,,Lettuce,Kiwi,Sunflower Seeds,377
+23,Total Daily Calories,,,,,,,1379
+24,Breakfast,Whole Wheat Bread,Chicken Breast,Milk,Papaya,,,460
+24,Lunch,Whole Wheat Bread,Shrimp,,Spinach,Kiwi,Peanuts,367
+24,Dinner,Sweet Potato,Chicken Breast,,Lettuce,Papaya,Almonds,425
+24,Total Daily Calories,,,,,,,1252
+25,Breakfast,Rice,Shrimp,Yogurt,Orange,,,502
+25,Lunch,Corn,Fish,,Lettuce,Orange,Olive Oil,437
+25,Dinner,Corn,Shrimp,,Carrots,Apple,Peanuts,425
+25,Total Daily Calories,,,,,,,1364
+26,Breakfast,Oatmeal,Beans,Cheese,Watermelon,,,455
+26,Lunch,Rice,Fish,,Cucumber,Watermelon,Sesame Oil,565
+26,Dinner,Noodles,Beans,,Cucumber,Kiwi,Sunflower Seeds,492
+26,Total Daily Calories,,,,,,,1512
+27,Breakfast,Sweet Potato,Fish,Cheese,Banana,,,425
+27,Lunch,Corn,Egg,,Broccoli,Kiwi,Olive Oil,387
+27,Dinner,Rice,Pork,,Spinach,Apple,Sunflower Seeds,610
+27,Total Daily Calories,,,,,,,1422
+28,Breakfast,Rice,Tofu,Yogurt,Papaya,,,485
+28,Lunch,Whole Wheat Bread,Fish,,Cucumber,Papaya,Peanuts,425
+28,Dinner,Rice,Shrimp,,Spinach,Watermelon,Almonds,500
+28,Total Daily Calories,,,,,,,1410
+29,Breakfast,Corn,Shrimp,Milk,Banana,,,415
+29,Lunch,Noodles,Beans,,Spinach,Kiwi,Walnuts,517
+29,Dinner,Oatmeal,Tofu,,Spinach,Kiwi,Peanuts,387
+29,Total Daily Calories,,,,,,,1319
+30,Breakfast,Whole Wheat Bread,Egg,Yogurt,Apple,,,435
+30,Lunch,Rice,Tofu,,Spinach,Orange,Almonds,467
+30,Dinner,Sweet Potato,Pork,,Kale,Papaya,Peanuts,485
+30,Total Daily Calories,,,,,,,1387
