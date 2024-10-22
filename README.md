@@ -25,7 +25,7 @@ Python AI 實作入門課程：從生活議題到實戰應用
 | Week 05  | [資料結構與資料型態應用](https://homepage.ntu.edu.tw/~jfanc/Marp/H03_%E6%AA%94%E6%A1%88%E8%B3%87%E6%96%99%E5%9E%8B%E6%85%8B%E6%87%89%E7%94%A8/#1)<br>管理個人消費數據，分析消費習慣       | 張傑帆 | 鈞賢 | [HW2](https://github.com/peculab/PythonAI4Beginners/blob/main/homeworks/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E6%A5%AD%E8%AA%AA%E6%98%8E.pdf) |
 | Week 06  | [檔案格式與數據處理](https://homepage.ntu.edu.tw/~jfanc/Marp/H04_%E6%AA%94%E6%A1%88%E6%A0%BC%E5%BC%8F%E8%88%87%E6%95%B8%E6%93%9A%E8%99%95%E7%90%86/)<br>計劃一場旅行，設計最佳路線安排           | 張傑帆 | 家瑋 | [HW3](https://github.com/peculab/PythonAI4Beginners/blob/main/homeworks/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E6%A5%AD%E8%AA%AA%E6%98%8E.pdf) |
 | Week 07  | [資料視覺化（上）](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E4%B8%83%E9%80%B1_%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96_Part1.ipynb)<br>追蹤和分析自己的飲食習慣，尋找健康飲食的模式             | 蔡芸琤 | 顥天 |
-| Week 08  | 資料視覺化（下）<br>追蹤和分析自己的飲食習慣，尋找健康飲食的模式             | 蔡芸琤 | 顥天 | HW4 |
+| Week 08  | [資料視覺化（下）](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E5%85%AB%E9%80%B1_%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96_Part2.ipynb)<br>追蹤和分析自己的飲食習慣，尋找健康飲食的模式             | 蔡芸琤 | 顥天 | HW4 |
 | Week 09  | 簡單的線性迴歸模型（上）<br>分析不同因素對房價的影響，並預測未來的房價趨勢     | 張傑帆 | 鈞賢 |
 | Week 10 | 簡單的線性迴歸模型（下）<br>分析不同因素對房價的影響，並預測未來的房價趨勢     | 張傑帆 | 鈞賢 | HW5 |
 | Week 11 | 圖像識別入門（上）<br>建立一個圖像識別模型來識別手寫數字，用於自動化處理表單或考試卷           | 張傑帆 | 顥天 |
