@@ -37,12 +37,14 @@
 ```
 plt.xlabel("Day") # x 軸標籤
 plt.ylabel("Total Daily Calories") # y 軸標籤
+plt.figure(figsize=(10, 6))
 ```
 
 2. 堆疊長條圖
 ```
 plt.xlabel('Day') # x 軸標籤
 plt.ylabel('Calories') # y 軸標籤
+mealsPivot.plot(kind='bar', stacked=True, figsize=(10, 6))
 ```
 
 3. 圓餅圖
@@ -51,6 +53,7 @@ df =
 
 # 注意在取比例的時候不要有小數點，一律四捨五入到整數位
 plt.pie(data=df, labels=df.index, autopct='%.0f%%', startangle=140)
+plt.figure(figsize=(10, 6))
 ```
 
 ## 輸出格式
