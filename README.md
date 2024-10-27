@@ -26,13 +26,13 @@ Python AI 實作入門課程：從生活議題到實戰應用
 | Week 06  | [檔案格式與數據處理](https://homepage.ntu.edu.tw/~jfanc/Marp/H04_%E6%AA%94%E6%A1%88%E6%A0%BC%E5%BC%8F%E8%88%87%E6%95%B8%E6%93%9A%E8%99%95%E7%90%86/)<br>計劃一場旅行，設計最佳路線安排           | 張傑帆 | 家瑋 | [HW3](https://github.com/peculab/PythonAI4Beginners/blob/main/homeworks/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E6%A5%AD%E8%AA%AA%E6%98%8E.pdf) |
 | Week 07  | [資料視覺化（上）](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E4%B8%83%E9%80%B1_%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96_Part1.ipynb)<br>追蹤和分析自己的飲食習慣，尋找健康飲食的模式             | 蔡芸琤 | 顥天 |
 | Week 08  | [資料視覺化（下）](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E5%85%AB%E9%80%B1_%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96_Part2.ipynb)<br>追蹤和分析自己的飲食習慣，尋找健康飲食的模式             | 蔡芸琤 | 顥天 | [HW4](https://github.com/peculab/PythonAI4Beginners/tree/main/homeworks/HW4%E4%BD%9C%E6%A5%AD%E8%AA%AA%E6%98%8E%E6%AA%94) |
-| Week 09  | 簡單的線性迴歸模型（上）<br>分析不同因素對房價的影響，並預測未來的房價趨勢     | 張傑帆 | 鈞賢 |
-| Week 10 | 簡單的線性迴歸模型（下）<br>分析不同因素對房價的影響，並預測未來的房價趨勢     | 張傑帆 | 鈞賢 | HW5 |
-| Week 11 | 圖像識別入門（上）<br>建立一個圖像識別模型來識別手寫數字，用於自動化處理表單或考試卷           | 張傑帆 | 顥天 |
-| Week 12 | 圖像識別入門（下）<br>建立一個圖像識別模型來識別手寫數字，用於自動化處理表單或考試卷           | 張傑帆 | 顥天 | HW6 |
+| Week 09  | [簡單的線性迴歸模型（上）](https://homepage.ntu.edu.tw/~jfanc/Marp/H06_%E7%B0%A1%E5%96%AE%E7%9A%84%E7%B7%9A%E6%80%A7%E8%BF%B4%E6%AD%B8%E6%A8%A1%E5%9E%8BI/)<br>分析不同因素對房價的影響，並預測未來的房價趨勢     | 張傑帆 | 鈞賢 |
+| Week 10 | [簡單的線性迴歸模型（下）](https://homepage.ntu.edu.tw/~jfanc/Marp/H06_%E7%B0%A1%E5%96%AE%E7%9A%84%E7%B7%9A%E6%80%A7%E8%BF%B4%E6%AD%B8%E6%A8%A1%E5%9E%8BII/)<br>分析不同因素對房價的影響，並預測未來的房價趨勢     | 張傑帆 | 鈞賢 | HW5 |
+| Week 11 | [圖像識別入門（上）](https://homepage.ntu.edu.tw/~jfanc/Marp/H07_%E5%9C%96%E5%83%8F%E8%AD%98%E5%88%A5%E5%85%A5%E9%96%80I/)<br>建立一個圖像識別模型來識別手寫數字，用於自動化處理表單或考試卷           | 張傑帆 | 顥天 |
+| Week 12 | [圖像識別入門（下）](https://homepage.ntu.edu.tw/~jfanc/Marp/H07_%E5%9C%96%E5%83%8F%E8%AD%98%E5%88%A5%E5%85%A5%E9%96%80II/)<br>建立一個圖像識別模型來識別手寫數字，用於自動化處理表單或考試卷           | 張傑帆 | 顥天 | HW6 |
 | Week 13 | 文字分類（上）<br>分析社交媒體上對特定事件的風向               | 蔡芸琤 | 家瑋 |
 | Week 14 | 文字分類（下）<br>分析社交媒體上對特定事件的風向               | 蔡芸琤 | 家瑋 | HW7 |
-| Week 15 | 網路資料自動爬取與分析<br>從網路上自動收集和分析新聞數據      | 張傑帆 | 顥天 | HW8 |
+| Week 15 | [網路資料自動爬取與分析](https://homepage.ntu.edu.tw/~jfanc/Marp/H09_%E7%B6%B2%E8%B7%AF%E8%B3%87%E6%96%99%E8%87%AA%E5%8B%95%E7%88%AC%E5%8F%96%E8%88%87%E5%88%86%E6%9E%90/)<br>從網路上自動收集和分析新聞數據      | 張傑帆 | 顥天 | HW8 |
 | Week 16 | 基礎自然語言處理 NLP（上）<br>分析影評中的主要關鍵字，瞭解影評者對電影的看法   | 蔡芸琤 | 家瑋 |
 | Week 17 | 基礎自然語言處理 NLP（下）<br>分析影評中的主要關鍵字，瞭解影評者對電影的看法   | 蔡芸琤 | 家瑋 | HW9 |
 | Week 18 | 期末總結                     | 蔡芸琤 |      |      |
