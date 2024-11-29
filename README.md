@@ -7,6 +7,10 @@ Python AI 實作入門課程：從生活議題到實戰應用
 
 語法自學：[https://coddy.tech](https://coddy.tech/)
 
+批改娘系統：[https://54.206.200.235:8000/](https://54.206.200.235:8000/)
+
+批改娘使用教學影片：[https://youtu.be/zo-ErMh5P_o](https://youtu.be/zo-ErMh5P_o)
+
 課程設計者：
 
     蔡芸琤（國立臺灣師範大學科技應用與人力資源發展系副教授）
