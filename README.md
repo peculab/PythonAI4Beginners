@@ -38,7 +38,7 @@ Python AI 實作入門課程：從生活議題到實戰應用
 | Week 13 | [文字分類（上）](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E5%8D%81%E4%B8%89%E9%80%B1_%E6%96%87%E5%AD%97%E5%88%86%E9%A1%9E_Part1.ipynb)<br>分析社交媒體上對特定事件的風向               | 蔡芸琤 | 家瑋 |
 | Week 14 | [文字分類（下）](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E5%8D%81%E5%9B%9B%E9%80%B1_%E6%96%87%E5%AD%97%E5%88%86%E9%A1%9E_Part2.ipynb)<br>分析社交媒體上對特定事件的風向               | 蔡芸琤 | 家瑋 | [HW7](https://github.com/peculab/PythonAI4Beginners/tree/main/homeworks/HW7%E4%BD%9C%E6%A5%AD%E8%AA%AA%E6%98%8E%E6%AA%94) |
 | Week 15 | [網路資料自動爬取與分析](https://homepage.ntu.edu.tw/~jfanc/Marp/H09_%E7%B6%B2%E8%B7%AF%E8%B3%87%E6%96%99%E8%87%AA%E5%8B%95%E7%88%AC%E5%8F%96%E8%88%87%E5%88%86%E6%9E%90/)<br>從網路上自動收集和分析新聞數據      | 張傑帆 | 顥天 | [HW8](https://github.com/peculab/PythonAI4Beginners/tree/main/homeworks/HW8%E4%BD%9C%E6%A5%AD%E8%AA%AA%E6%98%8E%E6%AA%94) |
-| Week 16 | 基礎自然語言處理 NLP（上）<br>分析影評中的主要關鍵字，瞭解影評者對電影的看法   | 蔡芸琤 | 家瑋 |
+| Week 16 | [基礎自然語言處理 NLP（上）](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E5%8D%81%E5%85%AD%E9%80%B1_%E5%9F%BA%E7%A4%8E%E8%87%AA%E7%84%B6%E8%AA%9E%E8%A8%80%E8%99%95%E7%90%86_NLP_Part1.ipynb)<br>分析影評中的主要關鍵字，瞭解影評者對電影的看法   | 蔡芸琤 | 家瑋 |
 | Week 17 | 基礎自然語言處理 NLP（下）<br>分析影評中的主要關鍵字，瞭解影評者對電影的看法   | 蔡芸琤 | 家瑋 | [HW9](https://github.com/peculab/PythonAI4Beginners/tree/main/homeworks/HW9%E4%BD%9C%E6%A5%AD%E8%AA%AA%E6%98%8E%E6%AA%94)|
 | Week 18 | 期末總結                     | 蔡芸琤 |      |      |
 
