@@ -5,6 +5,8 @@
 
 直播連結：[https://www.youtube.com/@peculab/streams](https://www.youtube.com/@peculab/streams)
 
+錄影播放清單：https://youtube.com/playlist?list=PLH3VeiMX0ckjeqN7l3uD_qPaP0MQFL2l0&si=CMErQ-aVtHJxtdLu
+
 批改娘系統：[https://54.206.200.235:8000/](https://3.27.196.164:8000/live)
 
 批改娘使用教學影片：[https://youtu.be/zo-ErMh5P_o](https://youtu.be/zo-ErMh5P_o)
