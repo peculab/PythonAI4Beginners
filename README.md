@@ -29,7 +29,7 @@
 | 113-2 學期週次 | 內容 | 作業 |
 |------|------|----------|
 | 02/14 - Week 01 | [課程介紹](https://docs.google.com/presentation/d/11a1IjFFdCylP4ykbIGqfJSP7qiX6MS6sqLd45FLj3U0/edit?usp=sharing)                | |
-| 02/21 - Week 02 | [AI 基礎概念](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E4%BA%8C%E9%80%B1_AI_%E5%9F%BA%E7%A4%8E%E6%A6%82%E5%BF%B5.ipynb)<br>理解 AI 的基本概念和歷史發展，認識 AI 在不同領域的應用場景 | 隨堂練習 & 閃電秀 |
+| 02/21 - Week 02 | [AI 基礎概念](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E4%BA%8C%E9%80%B1_AI_%E5%9F%BA%E7%A4%8E%E6%A6%82%E5%BF%B5.ipynb)<br>理解 AI 的基本概念和歷史發展，認識 AI 在不同領域的應用場景 | [隨堂練習](https://youtu.be/olTg5hmXhIY) & 閃電秀 |
 | 02/28 - Week 03 | 228 國定假日放假 | |
 | 03/07 - Week 04 | [Python 程式設計入門（上）](https://colab.research.google.com/drive/1UUEQID7XEqxvJg7k3ASlqMxn5lTDfNIo?usp=sharing)<br>撰寫一個簡單的聊天機器人來回答常見問題    | 隨堂練習 & HW1 |
 | 03/14 - Week 05 | [Python 程式設計入門（下）](https://colab.research.google.com/drive/1k1QHGqlsep5c-MgMkE7bNVVfu7Sw_FhJ?usp=sharing)<br>撰寫一個簡單的聊天機器人來回答常見問題    | 隨堂練習 & 閃電秀 |
