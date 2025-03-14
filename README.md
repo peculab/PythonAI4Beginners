@@ -34,7 +34,7 @@
 | 02/21 - Week 02 | [AI 基礎概念](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E4%BA%8C%E9%80%B1_AI_%E5%9F%BA%E7%A4%8E%E6%A6%82%E5%BF%B5.ipynb)<br>理解 AI 的基本概念和歷史發展，認識 AI 在不同領域的應用場景 | [隨堂練習](https://youtu.be/olTg5hmXhIY) & 閃電秀 |
 | 02/28 - Week 03 | 228 國定假日放假 | |
 | 03/07 - Week 04 | [Python 程式設計入門（上）](https://colab.research.google.com/drive/1UUEQID7XEqxvJg7k3ASlqMxn5lTDfNIo?usp=sharing)<br>撰寫一個簡單的聊天機器人來回答常見問題    | [隨堂練習](https://youtu.be/hjzMUKCGjG0) & [HW1](https://judgecode.org/problem/0/11111) |
-| 03/14 - Week 05 | [Python 程式設計入門（下）](https://colab.research.google.com/drive/1k1QHGqlsep5c-MgMkE7bNVVfu7Sw_FhJ?usp=sharing)<br>撰寫一個簡單的聊天機器人來回答常見問題    | 隨堂練習 & 閃電秀 |
+| 03/14 - Week 05 | [Python 程式設計入門（下）](https://colab.research.google.com/drive/1k1QHGqlsep5c-MgMkE7bNVVfu7Sw_FhJ?usp=sharing)<br>撰寫一個簡單的聊天機器人來回答常見問題    | [隨堂練習](https://youtu.be/Vpt8JccCYxA) & 閃電秀 |
 | 03/21 - Week 06 | [資料結構與資料型態應用](https://colab.research.google.com/drive/1zmTLDbypW7w2cQYHyRU6FN0VzCjR0oE7?usp=sharing)<br>管理個人消費數據，分析消費習慣       | 隨堂練習 & HW2 |
 | 03/28 - Week 07 | 段考週 & 溫書假 |  |
 | 04/04 - Week 08 | 兒童節國定假日放假 | |
