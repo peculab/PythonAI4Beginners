@@ -38,7 +38,7 @@
 | 03/21 - Week 06 | [資料結構與資料型態應用](https://colab.research.google.com/drive/1zmTLDbypW7w2cQYHyRU6FN0VzCjR0oE7?usp=sharing)<br>管理個人消費數據，分析消費習慣       | [隨堂練習](https://youtu.be/dEeSCS7fwsg) & [HW2](https://judgecode.org/problem/0/11112) |
 | 03/28 - Week 07 | 段考週 & 溫書假 |  |
 | 04/04 - Week 08 | 兒童節國定假日放假 | |
-| 04/11 - Week 09 | [檔案格式與數據處理](https://colab.research.google.com/drive/1WTmDL9cpPSr-TenU63xErK9NqeWioE56?usp=sharing)<br>計劃一場旅行，設計最佳路線安排           | 隨堂練習 & HW3 |
+| 04/11 - Week 09 | [檔案格式與數據處理](https://colab.research.google.com/drive/1WTmDL9cpPSr-TenU63xErK9NqeWioE56?usp=sharing)<br>計劃一場旅行，設計最佳路線安排           | [隨堂練習](https://youtu.be/dEeSCS7fwsg?si=YiwZ923rF-olDV_M) & [HW3](https://judgecode.org/problem/0/11113) |
 | 04/18 - Week 10 | 作業一至作業三回顧 & 助教解題 | |
 | 04/25 - Week 11 | [文字分類（上）](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E5%8D%81%E4%B8%89%E9%80%B1_%E6%96%87%E5%AD%97%E5%88%86%E9%A1%9E_Part1.ipynb)<br>分析社交媒體上對特定事件的風向               | 隨堂練習 & HW4 |
 | 05/02 - Week 12 | [文字分類（下）](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E5%8D%81%E5%9B%9B%E9%80%B1_%E6%96%87%E5%AD%97%E5%88%86%E9%A1%9E_Part2.ipynb)<br>分析社交媒體上對特定事件的風向               | 隨堂練習 & 閃電秀 |
