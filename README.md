@@ -47,7 +47,7 @@
 | 05/23 - Week 15 | [基礎自然語言處理 NLP（上）](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E5%8D%81%E5%85%AD%E9%80%B1_%E5%9F%BA%E7%A4%8E%E8%87%AA%E7%84%B6%E8%AA%9E%E8%A8%80%E8%99%95%E7%90%86_NLP_Part1.ipynb)<br>分析影評中的主要關鍵字，瞭解影評者對電影的看法   | [隨堂練習](https://colab.research.google.com/drive/1QWFtIakqPbNu_x1JukkbdW7FKotQoBk3?usp=sharing)<br>[隨堂練習提交](https://forms.gle/FbYDgDA6iMETiBeK8)<br>[閃電秀](https://forms.gle/tPMSSSrqTK6V5CDk7) |
 | 05/30 - Week 16 | 端午節國定假日放假 |  |
 | 06/06 - Week 17 | [基礎自然語言處理 NLP（下）](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E5%8D%81%E4%B8%83%E9%80%B1_%E5%9F%BA%E7%A4%8E%E8%87%AA%E7%84%B6%E8%AA%9E%E8%A8%80%E8%99%95%E7%90%86_NLP_Part2.ipynb)<br>分析影評中的主要關鍵字，瞭解影評者對電影的看法   | [隨堂練習](https://colab.research.google.com/drive/1APILsek94crEm2yvU4Mj426wDXi6YJY2?usp=sharing) & [閃電秀](https://forms.gle/tPMSSSrqTK6V5CDk7) |
-| 06/13 - Week 18 | 作業四至作業五回顧 & 助教解題 | |
+| 06/13 - Week 18 | 作業四至作業五回顧 & 助教解題 | [作業四參考解答](https://youtu.be/xKAz3EDH57A?si=vzqDa4RK3khaRZOq)<br>[作業舞參考解答](https://youtu.be/QsZq_CzKhho?si=sEJK3kHWJQLQqMMb)|
 | 06/20 - Week 19 | 期末總結發表 | [乃云助教回顧](https://youtu.be/C39iZ-OYVzc?si=_tdkE93lGR4leP4z)<br>[家瑋助教回顧](https://youtu.be/g9hBMT3DwX0?si=D8-G5DHuZ5Fqpp7p) |
 | 06/27 - Week 20 | 段考週 & 溫書假 | |
 
