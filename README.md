@@ -20,9 +20,9 @@
 
 | 週次 | 日期       | 課程主題         | 作業 |
 |------|------------|------------------|------|
-| 1    | 2025-09-05 | [課程介紹](https://docs.google.com/presentation/d/16hMI3MptDy2___5dlz1ZbIaNevPkrWzw2xfLREFp5Sk/edit?usp=sharing)        | [隨堂練習提交](https://forms.gle/AR8Y8kvBzk7Y5Uyi8) |
-| 2    | 2025-09-12 | [AI 基礎概念](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E4%BA%8C%E9%80%B1_AI_%E5%9F%BA%E7%A4%8E%E6%A6%82%E5%BF%B5.ipynb)     | [隨堂練習1](https://github.com/peculab/PythonAI4Beginners/blob/main/%E9%9A%A8%E5%A0%82%E7%B7%B4%E7%BF%921(%E6%87%89%E7%94%A8%E9%A1%8C).pdf) & [隨堂練習提交](https://docs.google.com/forms/d/e/1FAIpQLSd7ZC7PGBDxc9fsFomc2Ge1m48AtUVIQYx3q03VDASmLZ-A7g/viewform) |
-| 3    | 2025-09-19 | [Python 程式設計入門（上）](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E4%B8%89%E9%80%B1_%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA_Part1.ipynb) | [隨堂練習] & [HW1] |
+| 1    | 2025-09-05 | [課程介紹](https://docs.google.com/presentation/d/16hMI3MptDy2___5dlz1ZbIaNevPkrWzw2xfLREFp5Sk/edit?usp=sharing)        | [隨堂練習0提交](https://forms.gle/AR8Y8kvBzk7Y5Uyi8) |
+| 2    | 2025-09-12 | [AI 基礎概念](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E4%BA%8C%E9%80%B1_AI_%E5%9F%BA%E7%A4%8E%E6%A6%82%E5%BF%B5.ipynb)     | [隨堂練習1](https://github.com/peculab/PythonAI4Beginners/blob/main/%E9%9A%A8%E5%A0%82%E7%B7%B4%E7%BF%921(%E6%87%89%E7%94%A8%E9%A1%8C).pdf) & [隨堂練習1提交](https://docs.google.com/forms/d/e/1FAIpQLSd7ZC7PGBDxc9fsFomc2Ge1m48AtUVIQYx3q03VDASmLZ-A7g/viewform) |
+| 3    | 2025-09-19 | [Python 程式設計入門（上）](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E4%B8%89%E9%80%B1_%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA_Part1.ipynb) | [隨堂練習2](https://github.com/peculab/PythonAI4Beginners/blob/main/%E9%9A%A8%E5%A0%82%E7%B7%B4%E7%BF%922.pdf) & [隨堂練習2提交](https://docs.google.com/forms/d/e/1FAIpQLScwkUHB-coyeFOeKCkxZuck785ZAoFtOPqfq_Js_GLtRIOteA/viewform) & [HW1] |
 | 4    | 2025-09-26 | [Python 程式設計入門（下）] | [隨堂練習] |
 | 5    | 2025-10-03 | 段考週 & 溫書假  |
 | 6    | 2025-10-10 | 雙十節放假       |
