@@ -3,7 +3,7 @@
 
 課程設計者：蔡芸琤（國立臺灣師範大學科技應用與人力資源發展系副教授）
 
-[直播連結](https://www.youtube.com/@peculab/streams)、[錄影播放清單](https://youtube.com/playlist?list=PLH3VeiMX0ckjGmwvkev5HFB91HCLrDb4z&si=hljowowf9tYkEV1e)、[作業繳交方式說明](https://youtu.be/b3-p5Iny39g?si=WGis-FMhOy5q8Pct)
+[直播連結](https://www.youtube.com/@peculab/streams)、[錄影播放清單](https://youtube.com/playlist?list=PLH3VeiMX0ckjGmwvkev5HFB91HCLrDb4z&si=hljowowf9tYkEV1e)、[作業繳交方式說明](https://youtu.be/b3-p5Iny39g?si=WGis-FMhOy5q8Pct)、[閃電秀舞台](https://meet.google.com/tyt-yhzm-bui)
 
 ## 📌 誰適合參加
 
