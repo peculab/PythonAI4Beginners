@@ -38,7 +38,7 @@
 | 16   | 2025-12-19 | 作業四至作業五回顧 & 助教解題 | [HW4解題](https://www.youtube.com/watch?v=xKAz3EDH57A) & [HW5解題](https://www.youtube.com/watch?v=QsZq_CzKhho) |
 | 17   | 2025-12-26 | [綜合性小專題回顧](https://github.com/peculab/PythonAI4Beginners/issues/86) | |
 | 18   | 2026-01-02 | 元旦彈性假期     | |
-| 19   | 2026-01-09 | 線上非同步成果發表| |
+| 19   | 2026-01-09 | [線上非同步成果發表](https://github.com/peculab/PythonAI4Beginners/issues/111)| |
 | 20   | 2026-01-16 | 段考週 & 溫書假  | |
 
 ### 🔹 課堂作業
