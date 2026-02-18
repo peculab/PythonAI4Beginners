@@ -43,19 +43,19 @@
 | 日期 | 主題 | Round 1 | Round 2 |
 |------|------|---------|---------|
 | 2026/02/27 | 228補假日 | 不上課 | 不上課 |
-| 2026/03/06 | [Python 入門 + AI 世界觀](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT01.ipynb) | Python 基本語法、互動程式 | 函數設計 + 防呆輸入 |
-| 2026/03/13 | [資料結構應用](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT02.ipynb) | List / Dict 做小系統 | 排序 / 排行榜設計 |
-| 2026/03/20 | [檔案與資料處理](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT03.ipynb) | 讀寫檔案 | pandas CSV 清理 |
+| 2026/03/06 | [Python 入門 + AI 世界觀](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT01.ipynb) | Python 基本語法、互動程式 | [函數設計 + 防呆輸入](https://docs.google.com/forms/d/e/1FAIpQLSf2ZtTFDShaYCl5P_iJcBdt_zOogPOm65crYnEPpRdiyqDzQw/viewform) |
+| 2026/03/13 | [資料結構應用](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT02.ipynb) | List / Dict 做小系統 | [排序 / 排行榜設計](https://docs.google.com/forms/d/e/1FAIpQLSdIXVSVHFzkj7CRjV1tp9UrNbbpa8oPpUXZM8Af8WQtntlokA/viewform) |
+| 2026/03/20 | [檔案與資料處理](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT03.ipynb) | 讀寫檔案 | [pandas CSV 清理](https://docs.google.com/forms/d/e/1FAIpQLSdYRlvQw_WmjBYAnIN9mOTcF4kO8w7NDJici-6tFiHuSczAkQ/viewform) |
 | 2026/03/27 | 第一次期中考溫書假 | 不上課 | 不上課 |
 | 2026/04/03 | 清明節連假 | 不上課 | 不上課 |
-| 2026/04/10 | [資料視覺化 (1)](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT04.ipynb) | 折線圖看趨勢 | 長條圖與比較 |
-| 2026/04/17 | [資料視覺化 (2)](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT05.ipynb) | 多資料對比 | 用圖表說故事 |
-| 2026/04/24 | [AI 入門：線性回歸](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT06.ipynb) | 趨勢線概念 | 預測小工具 |
+| 2026/04/10 | [資料視覺化 (1)](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT04.ipynb) | 折線圖看趨勢 | [長條圖與比較](https://docs.google.com/forms/d/e/1FAIpQLScEoNUSSh0YcuOU8chJ6BsPFoRqiBOrNikNIuoeVSBsdy87dw/viewform) |
+| 2026/04/17 | [資料視覺化 (2)](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT05.ipynb) | 多資料對比 | [用圖表說故事](https://docs.google.com/forms/d/e/1FAIpQLScoT-MCZBiCUFEm11e_Ogtm4Z2XE2ab_PIZUI_p48YUcSufJw/viewform) |
+| 2026/04/24 | [AI 入門：線性回歸](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT06.ipynb) | 趨勢線概念 | [預測小工具](https://docs.google.com/forms/d/e/1FAIpQLSd6x6w5-2cxI1yiG1Bw4Kt3nCQfLHfzSi8tzIduoCTtL_ye_w/viewform) |
 | 2026/05/01 | 第二次期中考溫書假 | 不上課 | 不上課 |
-| 2026/05/08 | [聊天機器人 (1)](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT07.ipynb) | 規則式對話機器人 | 對話流程設計 |
-| 2026/05/15 | [聊天機器人 (2)](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT08.ipynb) | LLM / Prompt 概念 | AI 助手設計 |
-| 2026/05/22 | [影像辨識入門](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT09.ipynb) | 圖片 = 像素矩陣 | 簡易影像分類 |
-| 2026/05/29 | [NLP + 爬蟲整合](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT10.ipynb) | 抓網路資料 | 情緒分析 + 小專題 |
+| 2026/05/08 | [聊天機器人 (1)](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT07.ipynb) | 規則式對話機器人 | [對話流程設計](https://docs.google.com/forms/d/e/1FAIpQLScMMRnRaxE-00x-tDfPQIiRauvJSNhJQwcP7mJg8-6uMY1ZMw/viewform) |
+| 2026/05/15 | [聊天機器人 (2)](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT08.ipynb) | LLM / Prompt 概念 | [AI 助手設計](https://docs.google.com/forms/d/e/1FAIpQLSfLqY4wKmu1WGvG2OzxgU4jxgkQ-c1irkvjKGZSOe3IoIve3A/viewform) |
+| 2026/05/22 | [影像辨識入門](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT09.ipynb) | 圖片 = 像素矩陣 | [簡易影像分類](https://docs.google.com/forms/d/e/1FAIpQLSd6aWKYCpZZTMzJnUW9-fX6h6oE567VDeuOWJkvw5AXcnPRSA/viewform) |
+| 2026/05/29 | [NLP + 爬蟲整合](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT10.ipynb) | 抓網路資料 | [情緒分析 + 小專題](https://docs.google.com/forms/d/e/1FAIpQLSczxDtBJc1c5HEV1lCVZ5HIIQ5-2pQ-s6wfznJUF6_nDM6gaw/viewform) |
 | 2026/06/05 | [綜合性小專題回顧](https://github.com/peculab/PythonAI4Beginners/issues/111) | 不上課 | 不上課 |
 | 2026/06/12 | [線上非同步成果發表](https://github.com/peculab/PythonAI4Beginners/issues/112) | 不上課 | 不上課 |
 | 2026/06/19 | 期末考溫書假 | 不上課 | 不上課 |
