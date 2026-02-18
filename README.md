@@ -1,47 +1,142 @@
-# PythonAI4Beginners
-## 114-1 學年度 Python AI 實作入門課程：從生活議題到實戰應用
+# PythonAI4Beginners  
+## Python × AI 實作入門課程：從生活議題到 AI 應用專題（10 單元）
 
-課程設計者：蔡芸琤（國立臺灣師範大學科技應用與人力資源發展系副教授）
+課程設計者：蔡芸琤（國立臺灣師範大學科技應用與人力資源發展系 副教授）
 
-[直播連結](https://www.youtube.com/@peculab/streams)、[錄影播放清單](https://youtube.com/playlist?list=PLH3VeiMX0ckjGmwvkev5HFB91HCLrDb4z&si=hljowowf9tYkEV1e)、[作業繳交方式說明](https://youtu.be/b3-p5Iny39g?si=WGis-FMhOy5q8Pct)、[閃電秀舞台](https://meet.google.com/tyt-yhzm-bui)
+📺 直播連結：https://www.youtube.com/@peculab/streams  
+🎞 錄影播放清單：https://youtube.com/playlist?list=PLH3VeiMX0ckjGmwvkev5HFB91HCLrDb4z  
+📝 課程規範與成績計算（本頁 README）
+
+---
 
 ## 📌 誰適合參加
 
 ✅ 完全沒學過 Python，但願意動手試、不怕 debug  
-✅ 想學 AI 應用，動手打造聊天機器人、數據分析、文字探勘、程式語言在生活中的應用等  
-✅ 對 AI 與程式設計有興趣，想知道它如何影響生活  
-❌ 如果你害怕看到程式錯誤訊息，覺得一定要先背熟語法才能開始，這門課可能不適合你。這堂課強調邊做邊學、遇到問題就解！
+✅ 想學 AI 應用：聊天機器人、資料分析、文字探勘、影像辨識  
+✅ 對 AI 與程式設計有興趣，想做出「真的能跑的東西」  
+❌ 如果你害怕看到錯誤訊息、一定要先背熟語法才能開始，這門課可能不適合你  
 
-## 課程團隊：
+👉 這門課強調：**邊做邊學、錯誤就是學習的一部分。**
 
-    - 陳俊豪（國立臺灣師範大學科技應用與人力資源發展系博士後研究員 & 兼任助理教授）
-    - 許家瑋（國立臺灣師範大學科技應用與人力資源發展系研究助理）
-    - 張乃云（國立臺灣師範大學科技應用與人力資源發展系研究助理）
+---
 
-| 週次 | 日期       | 課程主題         | 作業 |
-|------|------------|------------------|------|
-| 1    | 2025-09-05 | [課程介紹](https://docs.google.com/presentation/d/16hMI3MptDy2___5dlz1ZbIaNevPkrWzw2xfLREFp5Sk/edit?usp=sharing)        | [隨堂練習0提交](https://forms.gle/AR8Y8kvBzk7Y5Uyi8) |
-| 2    | 2025-09-12 | [AI 基礎概念](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E4%BA%8C%E9%80%B1_AI_%E5%9F%BA%E7%A4%8E%E6%A6%82%E5%BF%B5.ipynb)     | [隨堂練習1](https://github.com/peculab/PythonAI4Beginners/blob/main/%E9%9A%A8%E5%A0%82%E7%B7%B4%E7%BF%921(%E6%87%89%E7%94%A8%E9%A1%8C).pdf) & [隨堂練習1提交](https://docs.google.com/forms/d/e/1FAIpQLSd7ZC7PGBDxc9fsFomc2Ge1m48AtUVIQYx3q03VDASmLZ-A7g/viewform) |
-| 3    | 2025-09-19 | [Python 程式設計入門（上）](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E4%B8%89%E9%80%B1_%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA_Part1.ipynb) | [隨堂練習2](https://github.com/peculab/PythonAI4Beginners/blob/main/%E9%9A%A8%E5%A0%82%E7%B7%B4%E7%BF%922.pdf) & [隨堂練習2提交](https://docs.google.com/forms/d/e/1FAIpQLScwkUHB-coyeFOeKCkxZuck785ZAoFtOPqfq_Js_GLtRIOteA/viewform) & [HW1](https://github.com/peculab/PythonAI4Beginners/blob/main/homeworks/1141%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E6%A5%AD.pdf) & [HW1提交](https://docs.google.com/forms/d/e/1FAIpQLSfvBUQcl8YArkjyaABcohDuJ-MUn_Ydbg1PNFnG1JVkAyuxLw/viewform) |
-| 4    | 2025-09-26 | [Python 程式設計入門（下）](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E5%9B%9B%E9%80%B1_%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA_Part2.ipynb) | [隨堂練習3](https://github.com/peculab/PythonAI4Beginners/blob/main/%E9%9A%A8%E5%A0%82%E7%B7%B4%E7%BF%923.pdf) & [隨堂練習3提交](https://docs.google.com/forms/d/e/1FAIpQLSdlstS1wEgHPmFY94iQuMBIN1L7H6plOuQ2gjauHuLyy6EPzQ/viewform) |
-| 5    | 2025-10-03 | 段考週 & 溫書假  |
-| 6    | 2025-10-10 | 雙十節放假       |
-| 7    | 2025-10-17 | 段考週 & 溫書假  |
-| 8    | 2025-10-24 | 光復節補假       |
-| 9    | 2025-10-31 | [資料結構與資料型態應用](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E4%BA%94%E9%80%B1_%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E8%88%87%E8%B3%87%E6%96%99%E5%9E%8B%E6%85%8B%E6%87%89%E7%94%A8.ipynb) | [隨堂練習4](https://github.com/peculab/PythonAI4Beginners/blob/main/%E9%9A%A8%E5%A0%82%E7%B7%B4%E7%BF%924.pdf) & [隨堂練習4提交](https://docs.google.com/forms/d/e/1FAIpQLSc15PZ-9QhTfnHKmRg_nCgUj_QT-_ymGLA5cTuyLr5YwIdegA/viewform) & [HW2](https://github.com/peculab/PythonAI4Beginners/blob/main/homeworks/1141%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E6%A5%AD.pdf) & [HW2提交](https://docs.google.com/forms/d/e/1FAIpQLScxQO4o8Nuis_RXaDYVaEusapda_lUVzBIDqV8dUlDCXL7yag/viewform) |
-| 10   | 2025-11-07 | [檔案格式與數據處理](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E5%85%AD%E9%80%B1_%E6%AA%94%E6%A1%88%E6%A0%BC%E5%BC%8F%E8%88%87%E6%95%B8%E6%93%9A%E8%99%95%E7%90%86.ipynb) | [隨堂練習5](https://github.com/peculab/PythonAI4Beginners/blob/main/%E9%9A%A8%E5%A0%82%E7%B7%B4%E7%BF%925.pdf) & [隨堂練習5提交](https://docs.google.com/forms/d/e/1FAIpQLScp2gClpfBfuUeodtxPt1UCcfxXFuOpaP4sIw7PcQSg1XygjA/viewform) & [HW3](https://github.com/peculab/PythonAI4Beginners/blob/main/homeworks/1141%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E6%A5%AD.pdf) & [HW3提交](https://docs.google.com/forms/d/e/1FAIpQLSdVfzdC7YcsA45BI2FP1zSKcBNVGWNyLX9pEMldK5fPrhHBJQ/viewform) |
-| 11   | 2025-11-14 | 作業一至作業三回顧 & 助教解題 | [HW1解題](https://www.youtube.com/watch?v=kiCeVAwfDf0) & [HW2解題](https://www.youtube.com/watch?v=38mwEo5xV5U) & [HW3解題](https://www.youtube.com/watch?v=kiCeVAwfDf0) |
-| 12   | 2025-11-21 | [網路資料自動爬取與分析](https://github.com/peculab/PythonAI4Beginners/blob/main/week13_%E7%B6%B2%E8%B7%AF%E8%B3%87%E6%96%99%E8%87%AA%E5%8B%95%E7%88%AC%E5%8F%96%E8%88%87%E5%88%86%E6%9E%90.ipynb) | [隨堂練習6](https://github.com/peculab/PythonAI4Beginners/blob/main/%E9%9A%A8%E5%A0%82%E7%B7%B4%E7%BF%926.pdf) & [隨堂練習6提交](https://docs.google.com/forms/d/e/1FAIpQLSeO-UA4YcJWp7hHpiMqz8YnXkIO-UUT8FGtkhfZCeQXHkPjmA/viewform) & [HW4](https://github.com/peculab/PythonAI4Beginners/blob/main/homeworks/HW7%E4%BD%9C%E6%A5%AD%E8%AA%AA%E6%98%8E%E6%AA%94/readme.md) & [HW4提交](https://docs.google.com/forms/d/e/1FAIpQLSc-zGKC-Z7JG7QR-EHVWmgkLwb7_QzTm2J3o8Obpvg1wfis8w/viewform) |
-| 13   | 2025-11-28 | 段考週 & 溫書假  | |
-| 14   | 2025-12-05 | [文字分類（上）](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E5%8D%81%E4%B8%89%E9%80%B1_%E6%96%87%E5%AD%97%E5%88%86%E9%A1%9E_Part1.ipynb) | [隨堂練習7](https://github.com/peculab/PythonAI4Beginners/blob/main/%E9%9A%A8%E5%A0%82%E7%B7%B4%E7%BF%927.pdf) & [隨堂練習7提交](https://forms.gle/EhYTtXCJ9DyZb5hB6) |
-| 15   | 2025-12-12 | [文字分類（下）](https://github.com/peculab/PythonAI4Beginners/blob/main/%E7%AC%AC%E5%8D%81%E5%9B%9B%E9%80%B1_%E6%96%87%E5%AD%97%E5%88%86%E9%A1%9E_Part2.ipynb) | [隨堂練習8](https://github.com/peculab/PythonAI4Beginners/blob/main/%E9%9A%A8%E5%A0%82%E7%B7%B4%E7%BF%928.pdf) & [隨堂練習8提交](https://forms.gle/uY74Y2Nprb2UiFhD8) & [HW5](https://github.com/peculab/PythonAI4Beginners/blob/main/homeworks/HW8%E4%BD%9C%E6%A5%AD%E8%AA%AA%E6%98%8E%E6%AA%94/README.md) & [HW5提交](https://docs.google.com/forms/d/e/1FAIpQLSd1I6vVr7_vcjkDI4C-0tsGzEaaHbnLeDTvtR1A9lF98DZOWA/viewform) |
-| 16   | 2025-12-19 | 作業四至作業五回顧 & 助教解題 | [HW4解題](https://www.youtube.com/watch?v=xKAz3EDH57A) & [HW5解題](https://www.youtube.com/watch?v=QsZq_CzKhho) |
-| 17   | 2025-12-26 | [綜合性小專題回顧](https://github.com/peculab/PythonAI4Beginners/issues/86) | |
-| 18   | 2026-01-02 | 元旦彈性假期     | |
-| 19   | 2026-01-09 | [線上非同步成果發表](https://github.com/peculab/PythonAI4Beginners/issues/111)| |
-| 20   | 2026-01-16 | 段考週 & 溫書假  | |
+## 🧠 課程設計方式（每個單元固定節奏）
 
-### 🔹 課堂作業
-- 每週課堂作業（隨堂練習）為 **點名依據**，即使課後補交仍算出席。
-- 課堂作業為基礎任務，確保學生能掌握基礎概念與實作能力。
-- 當天的隨堂練習繳交後，會過一個禮拜後批改，並提交成績給隨班老師。
+👉 **每個單元共 2 個 Round（約 100 分鐘）**
+
+- 🔹 Round 1  
+  - 20 分鐘：概念講解 + 老師 Live Coding  
+  - 30 分鐘：學生實作練習（含 TODO 任務）
+
+- 🔹 Round 2  
+  - 20 分鐘：進階概念 + 應用 Demo  
+  - 30 分鐘：挑戰任務（Challenge）
+
+🎯 教學核心：  
+- 每一單元都「看得懂 → 跑得動 → 改得了」  
+- 每一單元都產出一個可展示的小成果  
+
+---
+
+## 📘 10 個單元總覽
+
+| 日期 | 主題 | Round 1 | Round 2 |
+|------|------|---------|---------|
+| 2026/02/27 | 228補假日 | 不上課 | 不上課 |
+| 2026/03/06 | [Python 入門 + AI 世界觀](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT01.ipynb) | Python 基本語法、互動程式 | 函數設計 + 防呆輸入 |
+| 2026/03/13 | [資料結構應用](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT02.ipynb) | List / Dict 做小系統 | 排序 / 排行榜設計 |
+| 2026/03/20 | [檔案與資料處理](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT03.ipynb) | 讀寫檔案 | pandas CSV 清理 |
+| 2026/03/27 | 第一次期中考溫書假 | 不上課 | 不上課 |
+| 2026/04/03 | 清明節連假 | 不上課 | 不上課 |
+| 2026/04/10 | [資料視覺化 (1)](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT04.ipynb) | 折線圖看趨勢 | 長條圖與比較 |
+| 2026/04/17 | [資料視覺化 (2)](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT05.ipynb) | 多資料對比 | 用圖表說故事 |
+| 2026/04/24 | [AI 入門：線性回歸](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT06.ipynb) | 趨勢線概念 | 預測小工具 |
+| 2026/05/01 | 第二次期中考溫書假 | 不上課 | 不上課 |
+| 2026/05/08 | [聊天機器人 (1)](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT07.ipynb) | 規則式對話機器人 | 對話流程設計 |
+| 2026/05/15 | [聊天機器人 (2)](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT08.ipynb) | LLM / Prompt 概念 | AI 助手設計 |
+| 2026/05/22 | [影像辨識入門](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT09.ipynb) | 圖片 = 像素矩陣 | 簡易影像分類 |
+| 2026/05/29 | [NLP + 爬蟲整合](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT10.ipynb) | 抓網路資料 | 情緒分析 + 小專題 |
+| 2026/06/05 | [綜合性小專題回顧](https://github.com/peculab/PythonAI4Beginners/issues/111) | 不上課 | 不上課 |
+| 2026/06/12 | [線上非同步成果發表]() | 不上課 | 不上課 |
+| 2026/06/19 | 期末考溫書假 | 不上課 | 不上課 |
+| 2026/06/26 | 期末考週 | 不上課 | 不上課 |
+
+---
+
+## 🧾 成績計算方式（本課不收傳統程式作業）
+
+本課為大型同步線上課程（同時在線人數多），**不採「傳統交作業、人工批改」**。  
+成績將以「課堂即時理解」與「可規模化的自動化評量」為主。
+
+### ✅ 1) 課堂即時 Checkpoint（70%）
+- **每個單元 2 個 Round → 每個 Round 結束都有 1 次 Checkpoint 小測**
+- 每次小測約 **2–3 題、限時作答**（以課堂公告連結為準）
+- 題型以「理解與判讀」為主，例如：  
+  - 看一段短程式，判斷輸出結果  
+  - 判讀常見錯誤訊息，找出原因/修法  
+  - 改一個參數，推測輸出會如何變化  
+- **Checkpoint 作答紀錄同時作為出席與參與依據**
+
+> 重點：你可以使用 AI 工具輔助學習，但 Checkpoint 是限時題，主要測「你是否真的看懂課堂內容」。
+
+### ✅ 2) 課後理解確認（20%）
+- 每單元提供 1 份「理解確認表單」（約 3–5 分鐘）
+- 內容包含：本單元關鍵概念、卡關點回報、自我理解程度等
+- **不批改內容對錯，以完成提交作為參與紀錄**
+
+### ✅ 3) 期末自動評測小任務（10%）
+- 期末提供 1 個「固定規格的小任務」
+- 評分方式採 **Pass/Fail（是否達成指定輸出或指定結果）**
+- 目的：確保你能把課程工具整合起來做出一個可運作的小成果
+
+---
+
+## ✅ 上課與出席規範
+
+- 課程採 **實作導向**，請務必「跟著敲程式、跟著跑結果」
+- **出席以課堂 Checkpoint 作答紀錄為準**（單純登入但未作答，視同未完整參與）
+- 若因網路或設備因素無法作答，請依課堂公告流程回報（以利協助）
+
+---
+
+## ✅ AI 工具使用規範（ChatGPT / Copilot 等）
+
+你可以使用 AI 工具輔助學習，但必須遵守以下原則：
+
+✔️ 可以：
+- 問觀念（這段程式在做什麼？）
+- 問錯誤原因（這個錯誤訊息代表什麼？）
+- 請 AI 幫你解釋你「已經跑過」的程式碼
+- 請 AI 提供 debug 建議，然後你自己修改測試
+
+❌ 不建議/不接受：
+- 不看懂就直接貼上程式碼  
+- 只靠 AI 產碼、自己不嘗試、不理解  
+- 在 Checkpoint 限時測驗中臨時「照抄」而不理解（多半會答不出理解題）
+
+👉 本課評量重點是「即時理解」與「能否判讀與調整既有程式碼」，不是看誰貼得快。
+
+---
+
+## 🎯 修課完成後，你會得到什麼？
+
+完成 10 個單元後，你將具備：
+
+- ✔️ Python 基礎程式能力  
+- ✔️ 能處理資料、畫圖、做簡單 AI  
+- ✔️ 知道聊天機器人怎麼做出來  
+- ✔️ 有可放入學習歷程的作品  
+- ✔️ 對 AI 不再只是使用者，而是創作者  
+
+---
+
+📌 本課程重視「動手做、慢慢懂、做出成果」，  
+📌 你不需要很聰明，只要願意寫下第一行程式。
+
+---
+
+## 🧑‍🏫 課程團隊
+
+- 陳俊豪（國立臺灣師範大學科技應用與人力資源發展系 博士後研究員 & 兼任助理教授）  
+- 許家瑋（國立臺灣師範大學科技應用與人力資源發展系 研究助理）  
+- 張乃云（國立臺灣師範大學科技應用與人力資源發展系 研究助理）  
