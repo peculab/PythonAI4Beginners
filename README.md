@@ -57,7 +57,7 @@
 | 2026/05/22 | [影像辨識入門](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT09.ipynb) | 圖片 = 像素矩陣 | 簡易影像分類 |
 | 2026/05/29 | [NLP + 爬蟲整合](https://github.com/peculab/PythonAI4Beginners/blob/main/UNIT10.ipynb) | 抓網路資料 | 情緒分析 + 小專題 |
 | 2026/06/05 | [綜合性小專題回顧](https://github.com/peculab/PythonAI4Beginners/issues/111) | 不上課 | 不上課 |
-| 2026/06/12 | [線上非同步成果發表]() | 不上課 | 不上課 |
+| 2026/06/12 | [線上非同步成果發表](https://github.com/peculab/PythonAI4Beginners/issues/112) | 不上課 | 不上課 |
 | 2026/06/19 | 期末考溫書假 | 不上課 | 不上課 |
 | 2026/06/26 | 期末考週 | 不上課 | 不上課 |
 
