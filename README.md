@@ -3,6 +3,8 @@
 
 課程設計者：蔡芸琤（國立臺灣師範大學科技應用與人力資源發展系 副教授）
 
+AI 輔助程式教學幫手：[https://coding.t5input.com/problems](https://coding.t5input.com/problems)
+
 📺 直播連結：https://www.youtube.com/@peculab/streams  
 🎞 錄影播放清單：https://youtube.com/playlist?list=PLH3VeiMX0ckjGmwvkev5HFB91HCLrDb4z  
 📝 課程規範與成績計算（本頁 README）
