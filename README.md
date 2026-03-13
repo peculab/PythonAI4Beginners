@@ -6,7 +6,7 @@
 AI 輔助程式教學幫手：[https://coding.t5input.com/problems](https://coding.t5input.com/problems)
 
 📺 直播連結：https://www.youtube.com/@peculab/streams  
-🎞 錄影播放清單：https://youtube.com/playlist?list=PLH3VeiMX0ckjGmwvkev5HFB91HCLrDb4z  
+🎞 錄影播放清單：[https://youtube.com/playlist?list=PLH3VeiMX0ckjGmwvkev5HFB91HCLrDb4z](https://youtube.com/playlist?list=PLH3VeiMX0ckheD6bcPCA6nSPXNe_EbBzg&si=i2AOzhktgOESc1x2)  
 📝 課程規範與成績計算（本頁 README）
 
 ---
